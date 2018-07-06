@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=2DlkXjZnMjc
 
 https://github.com/emard/wifi_jtag
 
-**Altera tb276 Board**
+**Altera tb276 Board** 
 
 ![tb276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg)
+
+Zu kaufen bei: https://www.ebay.de/itm/Cyclone-IV-FPGA-Board-EP4CE6E22C8N-EP4CE6-Development-kit-CPLD-ALTERA-PLD-NiosII/272912964704?hash=item3f8ae15c60:g:z-IAAOSwK~da60-o
