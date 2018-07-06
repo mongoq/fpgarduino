@@ -1,5 +1,5 @@
 # fpgarduino
-** Arduino on FPGAs ***
+**Arduino on FPGAs**
 
 http://www.nxlab.fer.hr/fpgarduino/
 
@@ -13,4 +13,5 @@ https://www.youtube.com/watch?v=2DlkXjZnMjc
 
 https://github.com/emard/wifi_jtag
 
+Altera tb276 Board
 ![tb276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg)
