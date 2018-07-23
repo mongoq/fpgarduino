@@ -31,4 +31,4 @@ Zweitens JTAG auf dem TB276 Board
 
 ![ESP201b](https://github.com/emard/wifi_jtag/raw/master/pic/altera10pin_xilinx14pin.jpg)
 
-https://github.com/emard/wifi_jtag
+Pinbelegung bei: https://github.com/emard/wifi_jtag
