@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Q5GEMc2oYsw
 
 https://www.youtube.com/watch?v=2DlkXjZnMjc
 
-**Altera TBtb276 Board** 
+**Altera TB276 Board** 
 
 ![TB276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg)
 
