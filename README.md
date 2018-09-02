@@ -19,6 +19,10 @@ https://www.youtube.com/watch?v=2DlkXjZnMjc
 
 eBay: https://www.ebay.de/itm/Cyclone-IV-FPGA-Board-EP4CE6E22C8N-EP4CE6-Development-kit-CPLD-ALTERA-PLD-NiosII/272912964704
 
+Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276
+
+------
+
 **ESP201 - JTAG over WLAN**
 
 
