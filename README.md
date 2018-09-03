@@ -3,7 +3,7 @@
 
 --> http://www.nxlab.fer.hr/fpgarduino/
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328" width="100">
 
 ![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
 
