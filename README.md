@@ -1,9 +1,9 @@
 # fpgarduino
 **Arduino on FPGAs**
 
-![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
+--> http://www.nxlab.fer.hr/fpgarduino/
 
-http://www.nxlab.fer.hr/fpgarduino/
+![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
 
 https://github.com/f32c/arduino
 
