@@ -5,6 +5,10 @@
 
 ![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
 
+![Arduino IDE](https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328) ![Arduino IDE](https://saturn.ffzg.hr/rot13/index.cgi/tb276-back.jpg?action=attachments_download;page_name=tb276;id=20160702202332-0-15979)
+
+https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg
+
 https://github.com/f32c/arduino
 
 https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf
