@@ -5,7 +5,9 @@
 
 ![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
 
-![Arduino IDE](https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328) ![Arduino IDE](https://saturn.ffzg.hr/rot13/index.cgi/tb276-back.jpg?action=attachments_download;page_name=tb276;id=20160702202332-0-15979)
+![Arduino IDE](https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328 | width=100) 
+
+![Arduino IDE](https://saturn.ffzg.hr/rot13/index.cgi/tb276-back.jpg?action=attachments_download;page_name=tb276;id=20160702202332-0-15979)
 
 https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg
 
