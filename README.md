@@ -3,15 +3,11 @@
 
 --> http://www.nxlab.fer.hr/fpgarduino/
 
-<img src="https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328" width="100">
-
 ![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
 
-![Arduino IDE2](https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328 = 250x250) 
+<img src="https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328" width="400">
 
-![Arduino IDE3](https://saturn.ffzg.hr/rot13/index.cgi/tb276-back.jpg?action=attachments_download;page_name=tb276;id=20160702202332-0-15979 | width=100)
-
-https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg
+<img src="https://saturn.ffzg.hr/rot13/index.cgi/tb276-back.jpg?action=attachments_download;page_name=tb276;id=20160702202332-0-15979" width="400">
 
 https://github.com/f32c/arduino
 
