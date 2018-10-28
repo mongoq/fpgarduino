@@ -19,7 +19,7 @@
 
 <img src="https://saturn.ffzg.hr/rot13/index.cgi/tb276-front.jpg?action=attachments_download;page_name=tb276;id=20160702202319-0-32328" width="400"><img src="https://saturn.ffzg.hr/rot13/index.cgi/tb276-back.jpg?action=attachments_download;page_name=tb276;id=20160702202332-0-15979" width="400">
 
-Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276
+<!-- Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276 -->
 
 **Talks: **
 
