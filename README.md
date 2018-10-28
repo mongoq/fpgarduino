@@ -12,9 +12,9 @@ Example use: https://youtu.be/2DlkXjZnMjc
 
 **Links:**
 
---> http://www.nxlab.fer.hr/fpgarduino/
+http://www.nxlab.fer.hr/fpgarduino/
 
---> https://github.com/f32c/arduino
+https://github.com/f32c/arduino
 
 <!-- https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf -->
 
