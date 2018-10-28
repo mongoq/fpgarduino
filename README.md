@@ -21,7 +21,9 @@
 
 <!-- Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276 -->
 
-**Talks: **
+---
+
+**Talks:**
 
 Tuesday @ 1600 FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb:
 https://www.youtube.com/watch?v=Q5GEMc2oYsw
