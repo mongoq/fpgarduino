@@ -2,7 +2,10 @@
 **Arduino on FPGAs**
 
 --> http://www.nxlab.fer.hr/fpgarduino/
+
 --> https://github.com/f32c/arduino
+
+--> https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf
 
 ![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
 
@@ -12,12 +15,12 @@
 
 Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276
 
+**Talks: **
 
-
-https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf
-
+Tuesday @ 1600 FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb:
 https://www.youtube.com/watch?v=Q5GEMc2oYsw
 
+Example use: 
 https://www.youtube.com/watch?v=2DlkXjZnMjc
 
 <!-- **Altera TB276 Board** -->
