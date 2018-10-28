@@ -25,13 +25,13 @@
 
 **Talks:**
 
-Tuesday @ 1600 FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb:
-https://www.youtube.com/watch?v=Q5GEMc2oYsw
+FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
 
-Example use: 
-https://www.youtube.com/watch?v=2DlkXjZnMjc
+Example use: https://youtu.be/2DlkXjZnMjc
+
 
 <!-- **Altera TB276 Board** -->
 <!-- ![TB276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg) -->
+---
 
-eBay: https://www.ebay.de/itm/Cyclone-IV-FPGA-Board-EP4CE6E22C8N-EP4CE6-Development-kit-CPLD-ALTERA-PLD-NiosII/272912964704
+eBay: https://ebay.us/F3ECym
