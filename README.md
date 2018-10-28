@@ -13,7 +13,7 @@
 
 ---
 
-![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png)
+<!-- ![Arduino IDE](http://www.nxlab.fer.hr/fpgarduino/img/fpga_arduino.png) -->
 
 **Altera TB276 Board** 
 
