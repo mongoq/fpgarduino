@@ -28,7 +28,7 @@ https://github.com/f32c/arduino
 
 <!-- Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276 -->
 
-eBay (~35€): https://ebay.us/F3ECym
+eBay (~30€): https://ebay.us/F3ECym
 
 <!-- **Altera TB276 Board** -->
 <!-- ![TB276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg) -->
