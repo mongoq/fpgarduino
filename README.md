@@ -1,6 +1,8 @@
 # fpgarduino
 **Arduino on FPGAs**
 
+--> Talk @ Das Labor - Labortage 2018 PDF
+
 --> http://www.nxlab.fer.hr/fpgarduino/
 
 --> https://github.com/f32c/arduino
