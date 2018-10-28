@@ -4,7 +4,7 @@
 
 Das Labor - Labortage 2018 PDF (TODO)
 
-FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
+FPGArduino: A Cross Platform RISC-V IDE for masses, Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
 
 Example use: https://youtu.be/2DlkXjZnMjc
 
