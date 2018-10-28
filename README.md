@@ -1,9 +1,16 @@
 # fpgarduino
-**Arduino on FPGAs**
 
---> Talk @ Das Labor - Labortage 2018 PDF
+**Talks:**
+
+Das Labor - Labortage 2018 PDF
+
+FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
+
+Example use: https://youtu.be/2DlkXjZnMjc
 
 ---
+
+**Links:**
 
 --> http://www.nxlab.fer.hr/fpgarduino/
 
@@ -21,17 +28,7 @@
 
 <!-- Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276 -->
 
----
-
-**Talks:**
-
-FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
-
-Example use: https://youtu.be/2DlkXjZnMjc
-
+eBay: https://ebay.us/F3ECym
 
 <!-- **Altera TB276 Board** -->
 <!-- ![TB276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg) -->
----
-
-eBay: https://ebay.us/F3ECym
