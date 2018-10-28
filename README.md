@@ -1,8 +1,8 @@
-# fpgarduino
+# fpgarduino - FPGAs with Arduino
 
 **Talks:**
 
-Das Labor - Labortage 2018 PDF
+Das Labor - Labortage 2018 PDF (TODO)
 
 FPGArduino A Cross Platform RISC V IDE for masses Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
 
@@ -16,7 +16,7 @@ Example use: https://youtu.be/2DlkXjZnMjc
 
 --> https://github.com/f32c/arduino
 
---> https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf
+<!-- https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf -->
 
 ---
 
