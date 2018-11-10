@@ -2,7 +2,7 @@
 
 **Talks:**
 
-Das Labor - Labortage 2018 PDF (TODO)
+Labortage 2018 Vortrag (PDF)
 
 FPGArduino: A Cross Platform RISC-V IDE for masses, Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
 
