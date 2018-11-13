@@ -28,7 +28,9 @@ https://github.com/f32c/arduino
 
 <!-- Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276 -->
 
-eBay (~30€): https://ebay.us/F3ECym (Problem: New boards are shipped with 50MHz crystal, needs to be 25MHz for given bitstreams (!!!))
+eBay (~30€): https://ebay.us/F3ECym 
+
+Problem: New boards are shipped with 50MHz crystal, needs to be 25MHz for given bitstreams (!!!)
 
 <!-- **Altera TB276 Board** -->
 <!-- ![TB276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg) -->
