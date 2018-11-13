@@ -2,7 +2,7 @@
 
 **Talks:**
 
-Labortage 2018 Vortrag (PDF)
+[Labortage 2018 Vortrag](https://github.com/mongoq/fpgarduino/raw/master/FPGAs%20mit%20Arduino%20Vortrag%20Labortage%202018.pdf)
 
 FPGArduino: A Cross Platform RISC-V IDE for masses, Marko Zec, University of Zagreb: https://youtu.be/Q5GEMc2oYsw
 
