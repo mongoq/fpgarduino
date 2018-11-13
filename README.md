@@ -30,7 +30,8 @@ https://github.com/f32c/arduino
 
 eBay (~30€): https://ebay.us/F3ECym 
 
-Problem: New boards are shipped with 50 MHz crystal; needs to be 25 MHz for given bitstreams (!) maybe someday someone synthesises the f32c softcore with 50 MHz PLL(s) ...
+Problem: New boards are shipped with 50 MHz crystal; needs to be 25 MHz for given bitstreams (!) 
+Maybe someday someone synthesises the f32c softcore with 50 MHz PLL(s) ... TODO
 
 <!-- **Altera TB276 Board** -->
 <!-- ![TB276 Board](http://www.nxlab.fer.hr/fpgarduino/img/altera_tb276.jpg) -->
