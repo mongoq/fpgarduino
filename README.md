@@ -30,6 +30,8 @@ https://github.com/f32c/arduino
 
 eBay (~30€): https://ebay.us/F3ECym 
 
+---
+
 Problem: New boards are shipped with 50 MHz crystal; needs to be 25 MHz for given bitstreams (!) 
 Maybe someday someone synthesises the f32c soc with 25 MHz PLL(s) ... (TODO)
 
