@@ -28,7 +28,7 @@ https://github.com/f32c/arduino
 
 <!-- Bilder: https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=tb276 -->
 
-eBay (~30€): https://ebay.us/F3ECym (don't forget the JTAG USB-Blaster flasher interface)
+eBay (~30€): don't forget the JTAG USB-Blaster flasher interface
 
 ---
 
